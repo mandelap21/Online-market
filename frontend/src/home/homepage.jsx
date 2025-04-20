@@ -7,7 +7,7 @@ const HomePage = () => {
     <div className="landing-page">
       {/* Header Section */}
       <header className="landing-header">
-        <div className="logo">LocalShop Connect</div>
+        <div className="logo">Malaa OnlineShop</div>
         <nav className="nav-menu">
           <a href="/home">Home</a>
           <a href="/vendors">Vendors</a>
@@ -27,7 +27,7 @@ const HomePage = () => {
           <a href="/register" className="btn primary-btn">Get Started</a>
         </div>
         <div className="hero-image">
-          <img src="/assets/images/marketplace-hero.jpg" alt="Local Market" />
+          <img src="/src/assets/images/marketplace-hero.jpg" alt="Local Market" />
         </div>
       </section>
 
